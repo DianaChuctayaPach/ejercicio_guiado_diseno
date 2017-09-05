@@ -1,6 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     background: #f06e6e;
+    border: 10px solid black;
 }
 img{
     width: 500px;
@@ -31,9 +32,11 @@ img{
         background: black;
         font-family: 'Lobster', cursive;
         color: white;
+        border: 10px solid #bd023b;
     }
     img{
         border: 6px solid white;
+        
        
     }
 }
