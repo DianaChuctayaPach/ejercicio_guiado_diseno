@@ -1,0 +1,9 @@
+body{
+    font-family: "Monserrat",sans-serif;
+    background: #f06e6e;
+}
+img{
+    width: 100%;
+    border:6px solid #bd023b;
+    padding: 2%;
+}
